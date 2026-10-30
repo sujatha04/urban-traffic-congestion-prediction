@@ -1,0 +1,110 @@
+{
+  "0": {
+    "id": "BLR-01",
+    "name": "Central Business Plaza (MG Road)",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "capacity": 3200,
+    "lanes": 4,
+    "type": "Arterial"
+  },
+  "1": {
+    "id": "BLR-02",
+    "name": "Tech Corridor North (Hebbal)",
+    "lat": 12.985,
+    "lon": 77.605,
+    "capacity": 3000,
+    "lanes": 3,
+    "type": "Expressway"
+  },
+  "2": {
+    "id": "BLR-03",
+    "name": "Tech Corridor South (Koramangala)",
+    "lat": 12.9352,
+    "lon": 77.6245,
+    "capacity": 3500,
+    "lanes": 4,
+    "type": "Expressway"
+  },
+  "3": {
+    "id": "BLR-04",
+    "name": "Metro Transit Interchange (Majestic)",
+    "lat": 12.978,
+    "lon": 77.572,
+    "capacity": 2800,
+    "lanes": 3,
+    "type": "Arterial"
+  },
+  "4": {
+    "id": "BLR-05",
+    "name": "Industrial Port Gateway (Whitefield)",
+    "lat": 12.955,
+    "lon": 77.65,
+    "capacity": 3400,
+    "lanes": 4,
+    "type": "Freight Highway"
+  },
+  "5": {
+    "id": "BLR-06",
+    "name": "Airport Expressway Flyover (Kempegowda)",
+    "lat": 13.01,
+    "lon": 77.585,
+    "capacity": 4000,
+    "lanes": 4,
+    "type": "Expressway"
+  },
+  "6": {
+    "id": "BLR-07",
+    "name": "Heritage Old Market Hub (KR Market)",
+    "lat": 12.964,
+    "lon": 77.578,
+    "capacity": 2100,
+    "lanes": 2,
+    "type": "Urban Street"
+  },
+  "7": {
+    "id": "BLR-08",
+    "name": "University Campus Ring Road (PES/Mysore Rd)",
+    "lat": 12.938,
+    "lon": 77.535,
+    "capacity": 2500,
+    "lanes": 3,
+    "type": "Ring Road"
+  },
+  "8": {
+    "id": "BLR-09",
+    "name": "Suburban East Junction (Marathahalli ORR)",
+    "lat": 12.99,
+    "lon": 77.67,
+    "capacity": 2600,
+    "lanes": 3,
+    "type": "Suburban Arterial"
+  },
+  "9": {
+    "id": "BLR-10",
+    "name": "South West Bypass Exit (Bannerghatta)",
+    "lat": 12.915,
+    "lon": 77.58,
+    "capacity": 3100,
+    "lanes": 3,
+    "type": "Bypass"
+  },
+  "10": {
+    "id": "BLR-11",
+    "name": "Commercial Financial Tower (Brigade Rd)",
+    "lat": 12.975,
+    "lon": 77.61,
+    "capacity": 3300,
+    "lanes": 4,
+    "type": "Arterial"
+  },
+  "11": {
+    "id": "BLR-12",
+    "name": "Outer Ring Greenbelt (Manyata Park)",
+    "lat": 13.025,
+    "lon": 77.635,
+    "capacity": 3800,
+    "lanes": 4,
+    "type": "Ring Road"
+  }
+}

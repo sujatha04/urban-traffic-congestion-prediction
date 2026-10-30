@@ -1,0 +1,18 @@
+{
+  "cities": [
+    "bangalore",
+    "delhi",
+    "mumbai",
+    "chennai",
+    "hyderabad",
+    "kolkata",
+    "pune",
+    "ahmedabad",
+    "jaipur",
+    "lucknow",
+    "chandigarh",
+    "kochi",
+    "indore"
+  ],
+  "num_cities": 13
+}

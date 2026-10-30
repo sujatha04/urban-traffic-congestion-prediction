@@ -1,0 +1,494 @@
+{
+  "0-1": {
+    "corridor_id": "CR-01",
+    "name": "Central Business Plaza \u2194 Tech Corridor North",
+    "arterial": "MG Road \u2013 Cubbon Road \u2013 Queen's Road Corridor",
+    "distance_km": 2.1,
+    "waypoints": [
+      [
+        12.9716,
+        77.5946
+      ],
+      [
+        12.9742,
+        77.5978
+      ],
+      [
+        12.9785,
+        77.6012
+      ],
+      [
+        12.9822,
+        77.6038
+      ],
+      [
+        12.985,
+        77.605
+      ]
+    ]
+  },
+  "0-3": {
+    "corridor_id": "CR-02",
+    "name": "Central Business Plaza \u2194 Metro Transit Interchange",
+    "arterial": "Kasturba Road \u2013 Nrupathunga \u2013 Sheshadri Arterial",
+    "distance_km": 2.5,
+    "waypoints": [
+      [
+        12.9716,
+        77.5946
+      ],
+      [
+        12.9728,
+        77.5882
+      ],
+      [
+        12.9746,
+        77.581
+      ],
+      [
+        12.9768,
+        77.5758
+      ],
+      [
+        12.978,
+        77.572
+      ]
+    ]
+  },
+  "0-6": {
+    "corridor_id": "CR-03",
+    "name": "Central Business Plaza \u2194 Heritage Old Market Hub",
+    "arterial": "Residency Road \u2013 Town Hall \u2013 JC Road Link",
+    "distance_km": 1.8,
+    "waypoints": [
+      [
+        12.9716,
+        77.5946
+      ],
+      [
+        12.9688,
+        77.5898
+      ],
+      [
+        12.9664,
+        77.5842
+      ],
+      [
+        12.9648,
+        77.5802
+      ],
+      [
+        12.964,
+        77.578
+      ]
+    ]
+  },
+  "0-10": {
+    "corridor_id": "CR-04",
+    "name": "Central Business Plaza \u2194 Commercial Financial Tower",
+    "arterial": "MG Road Promenade \u2013 Brigade Road Expressway Link",
+    "distance_km": 1.5,
+    "waypoints": [
+      [
+        12.9716,
+        77.5946
+      ],
+      [
+        12.973,
+        77.6015
+      ],
+      [
+        12.9742,
+        77.6068
+      ],
+      [
+        12.975,
+        77.61
+      ]
+    ]
+  },
+  "1-5": {
+    "corridor_id": "CR-05",
+    "name": "Tech Corridor North \u2194 Airport Expressway Flyover",
+    "arterial": "Ballari Expressway (NH 44) \u2013 Mehkri Circle Flyover",
+    "distance_km": 3.2,
+    "waypoints": [
+      [
+        12.985,
+        77.605
+      ],
+      [
+        12.9912,
+        77.5992
+      ],
+      [
+        12.9984,
+        77.5922
+      ],
+      [
+        13.0048,
+        77.5878
+      ],
+      [
+        13.01,
+        77.585
+      ]
+    ]
+  },
+  "1-10": {
+    "corridor_id": "CR-06",
+    "name": "Tech Corridor North \u2194 Commercial Financial Tower",
+    "arterial": "Dickenson Road \u2013 Ulsoor Lake Avenue",
+    "distance_km": 1.7,
+    "waypoints": [
+      [
+        12.985,
+        77.605
+      ],
+      [
+        12.9822,
+        77.6078
+      ],
+      [
+        12.9785,
+        77.6094
+      ],
+      [
+        12.975,
+        77.61
+      ]
+    ]
+  },
+  "1-11": {
+    "corridor_id": "CR-07",
+    "name": "Tech Corridor North \u2194 Outer Ring Greenbelt",
+    "arterial": "Banaswadi Main Road \u2013 Kammanahalli Expressway",
+    "distance_km": 4.0,
+    "waypoints": [
+      [
+        12.985,
+        77.605
+      ],
+      [
+        12.9952,
+        77.6138
+      ],
+      [
+        13.0058,
+        77.6224
+      ],
+      [
+        13.0162,
+        77.6292
+      ],
+      [
+        13.025,
+        77.635
+      ]
+    ]
+  },
+  "2-4": {
+    "corridor_id": "CR-08",
+    "name": "Tech Corridor South \u2194 Industrial Port Gateway",
+    "arterial": "Koramangala 100ft Road \u2013 Intermediate Ring Road (IRR)",
+    "distance_km": 3.5,
+    "waypoints": [
+      [
+        12.9352,
+        77.6245
+      ],
+      [
+        12.9412,
+        77.6322
+      ],
+      [
+        12.9468,
+        77.6398
+      ],
+      [
+        12.9518,
+        77.6458
+      ],
+      [
+        12.955,
+        77.65
+      ]
+    ]
+  },
+  "2-9": {
+    "corridor_id": "CR-09",
+    "name": "Tech Corridor South \u2194 South West Bypass Exit",
+    "arterial": "Hosur Road \u2013 Silk Board Junction \u2013 BTM Ring Road",
+    "distance_km": 3.0,
+    "waypoints": [
+      [
+        12.9352,
+        77.6245
+      ],
+      [
+        12.9298,
+        77.6188
+      ],
+      [
+        12.9232,
+        77.6082
+      ],
+      [
+        12.9178,
+        77.5924
+      ],
+      [
+        12.915,
+        77.58
+      ]
+    ]
+  },
+  "2-10": {
+    "corridor_id": "CR-10",
+    "name": "Tech Corridor South \u2194 Commercial Financial Tower",
+    "arterial": "Hosur Road \u2013 Adugodi \u2013 Richmond Circle Flyover",
+    "distance_km": 4.2,
+    "waypoints": [
+      [
+        12.9352,
+        77.6245
+      ],
+      [
+        12.9468,
+        77.6182
+      ],
+      [
+        12.9582,
+        77.6138
+      ],
+      [
+        12.9682,
+        77.6112
+      ],
+      [
+        12.975,
+        77.61
+      ]
+    ]
+  },
+  "3-6": {
+    "corridor_id": "CR-11",
+    "name": "Metro Transit Interchange \u2194 Heritage Old Market Hub",
+    "arterial": "Kempegowda Link \u2013 OTC Road \u2013 City Market Arterial",
+    "distance_km": 1.6,
+    "waypoints": [
+      [
+        12.978,
+        77.572
+      ],
+      [
+        12.9738,
+        77.5736
+      ],
+      [
+        12.9692,
+        77.5756
+      ],
+      [
+        12.964,
+        77.578
+      ]
+    ]
+  },
+  "3-7": {
+    "corridor_id": "CR-12",
+    "name": "Metro Transit Interchange \u2194 University Campus Ring Road",
+    "arterial": "Magadi Road \u2013 Vijayanagar Chord Road Link",
+    "distance_km": 4.5,
+    "waypoints": [
+      [
+        12.978,
+        77.572
+      ],
+      [
+        12.9708,
+        77.5608
+      ],
+      [
+        12.9608,
+        77.5508
+      ],
+      [
+        12.9488,
+        77.5418
+      ],
+      [
+        12.938,
+        77.535
+      ]
+    ]
+  },
+  "4-8": {
+    "corridor_id": "CR-13",
+    "name": "Industrial Port Gateway \u2194 Suburban East Junction",
+    "arterial": "Old Airport Road \u2013 HAL Expressway \u2013 Marathahalli Bridge",
+    "distance_km": 3.8,
+    "waypoints": [
+      [
+        12.955,
+        77.65
+      ],
+      [
+        12.9622,
+        77.6588
+      ],
+      [
+        12.9718,
+        77.6658
+      ],
+      [
+        12.9818,
+        77.6688
+      ],
+      [
+        12.99,
+        77.67
+      ]
+    ]
+  },
+  "5-11": {
+    "corridor_id": "CR-14",
+    "name": "Airport Expressway Flyover \u2194 Outer Ring Greenbelt",
+    "arterial": "Outer Ring Road (ORR) \u2013 Nagavara Lake \u2013 Manyata Tech Park",
+    "distance_km": 4.6,
+    "waypoints": [
+      [
+        13.01,
+        77.585
+      ],
+      [
+        13.0148,
+        77.5972
+      ],
+      [
+        13.0202,
+        77.6118
+      ],
+      [
+        13.0232,
+        77.6248
+      ],
+      [
+        13.025,
+        77.635
+      ]
+    ]
+  },
+  "7-9": {
+    "corridor_id": "CR-15",
+    "name": "University Campus Ring Road \u2194 South West Bypass Exit",
+    "arterial": "Banashankari 100ft Ring Road \u2013 Kanakapura Flyover Link",
+    "distance_km": 4.1,
+    "waypoints": [
+      [
+        12.938,
+        77.535
+      ],
+      [
+        12.9298,
+        77.5458
+      ],
+      [
+        12.9222,
+        77.5598
+      ],
+      [
+        12.9172,
+        77.5708
+      ],
+      [
+        12.915,
+        77.58
+      ]
+    ]
+  },
+  "8-11": {
+    "corridor_id": "CR-16",
+    "name": "Suburban East Junction \u2194 Outer Ring Greenbelt",
+    "arterial": "K.R. Puram Cable Bridge \u2013 Kasturi Nagar ORR Link",
+    "distance_km": 4.3,
+    "waypoints": [
+      [
+        12.99,
+        77.67
+      ],
+      [
+        13.0008,
+        77.6632
+      ],
+      [
+        13.0122,
+        77.6528
+      ],
+      [
+        13.0208,
+        77.6422
+      ],
+      [
+        13.025,
+        77.635
+      ]
+    ]
+  },
+  "9-0": {
+    "corridor_id": "CR-17",
+    "name": "South West Bypass Exit \u2194 Central Business Plaza",
+    "arterial": "Bannerghatta Road \u2013 Dairy Circle \u2013 Lalbagh Fort Road",
+    "distance_km": 4.8,
+    "waypoints": [
+      [
+        12.915,
+        77.58
+      ],
+      [
+        12.9278,
+        77.5888
+      ],
+      [
+        12.9422,
+        77.5928
+      ],
+      [
+        12.9578,
+        77.5938
+      ],
+      [
+        12.9716,
+        77.5946
+      ]
+    ]
+  },
+  "10-4": {
+    "corridor_id": "CR-18",
+    "name": "Commercial Financial Tower \u2194 Industrial Port Gateway",
+    "arterial": "Trinity Circle \u2013 Old Airport Road \u2013 Domlur Flyover",
+    "distance_km": 3.9,
+    "waypoints": [
+      [
+        12.975,
+        77.61
+      ],
+      [
+        12.9698,
+        77.6228
+      ],
+      [
+        12.9632,
+        77.6358
+      ],
+      [
+        12.9578,
+        77.6442
+      ],
+      [
+        12.955,
+        77.65
+      ]
+    ]
+  }
+}
